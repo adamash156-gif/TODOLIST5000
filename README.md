@@ -30,7 +30,7 @@ venv\Scripts\activate
 
 ```bash
 # 3. Установить зависимости
-pip install pip install pillow customtkinter
+ pip install pillow customtkinter
 ```
 
 
