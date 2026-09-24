@@ -39,3 +39,11 @@ venv\Scripts\activate
 # 4. Скопировать конфиг окружения (опционально)
 cp .env.example .env
 ```
+
+```bash
+# 5. Запуск файла
+cd TODOLIST5000
+python main.py
+```
+
+
